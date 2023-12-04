@@ -1,0 +1,5 @@
+create user online_Api_user with password 'root';
+create database online_Api_db owner username;
+
+username = 'login'
+password = '2123'
